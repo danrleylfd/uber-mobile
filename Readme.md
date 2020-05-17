@@ -36,4 +36,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Tutorial Feito com ♥ by Rocketseat :wave:
+Tutorial Feito com ♥ by [Rocketseat](https://rocketseat.com.br) :wave:

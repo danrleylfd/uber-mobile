@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Nubank" title="#delicinha" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png" width="200px" />
+    <img alt="Uber" title="#delicinha" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png" width="200px" />
 </h1>
 
 <h4 align="center">
